@@ -1,1 +1,1 @@
-FROM docker.io/library/amazoncorretto:11.0.8
+FROM docker.io/library/openjdk:8u275-jdk
