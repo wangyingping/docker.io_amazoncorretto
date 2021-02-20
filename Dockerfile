@@ -1,1 +1,1 @@
-FROM docker.io/library/openjdk:8u275-jdk
+FROM docker.io/library/openjdk:8u282-jdk
